@@ -66,5 +66,11 @@ sample inputs and Outputs
 ![Output1](https://github.com/user-attachments/assets/010d5f89-bfba-405c-8a54-da0e5711b268)
 ![Output2](https://github.com/user-attachments/assets/2b8f2d33-2df4-4553-ada4-b060be2ecd25)
 
+## **Combine Model**
+
+To implement this, we combined the Random Classifier and LSTM model. This model responds to spelling and grammar mistakes simultaneously!
+
+![Final Inputs and Outputs](https://github.com/user-attachments/assets/fa5cc64d-50ba-415c-bdb1-5e961e88310d)
+
 
 
