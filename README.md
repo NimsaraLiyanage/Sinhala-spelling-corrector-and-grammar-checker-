@@ -1,7 +1,8 @@
 # Sinhala spelling corrector and grammar checker
 (Semester 7 AI module project)
 
-**Sinhala spelling corrector**
+## **Sinhala spelling corrector**
+
 Two methods were used to implement the Sinhala spelling corrector. LSTM model model performs well with 95.46% accuracy.
 
 ![5](https://github.com/user-attachments/assets/dfea5cc3-a8b5-424c-a02a-ce5588551421)
@@ -26,3 +27,44 @@ sample inputs and Outputs
 
 ![1 GUI](https://github.com/user-attachments/assets/895ecbf5-5a60-4902-8966-bf7f995c0513)
 ![3 GUI](https://github.com/user-attachments/assets/e2d9f216-c8cc-4df6-9978-8576e3cee049)
+
+_______________________________________________________________________________________________________________________________________
+
+## **Sinhala Grammar Checker** 
+We Used 3 approaches to make a Sinhala grammar checker.
+1. Rule-Based Approach
+2. ML - Random Forest Classifier 
+3. DL - RNN
+
+1. Rule-Based Approach
+
+How It Works:
+
+•	A set of predefined rules is created to identify and correct grammar errors.
+
+sample inputs and Outputs 
+![iNPUTS AND oUTPUTS](https://github.com/user-attachments/assets/2120eec6-e4c5-4426-8e12-2e66adf104fd)
+
+
+2. Machine Learning (Random Forest Classifier)
+
+How It Works:
+
+•	A supervised machine learning model is trained on labeled examples of correct and incorrect Sinhala grammar to classify sentences or phrases as correct or incorrect.
+
+sample inputs and Outputs 
+![Final Inputs and Outputs](https://github.com/user-attachments/assets/65712a7e-d5f2-4f57-91a0-9654712e7a1c)
+
+
+3. Deep Learning (Recurrent Neural Network - RNN)
+
+How It Works:
+
+•	Uses RNNs, a neural network designed to handle sequences of words and identify and correct grammar errors in Sinhala sentences. The model learns patterns in grammar from a large dataset.
+
+sample inputs and Outputs 
+![Output1](https://github.com/user-attachments/assets/010d5f89-bfba-405c-8a54-da0e5711b268)
+![Output2](https://github.com/user-attachments/assets/2b8f2d33-2df4-4553-ada4-b060be2ecd25)
+
+
+
