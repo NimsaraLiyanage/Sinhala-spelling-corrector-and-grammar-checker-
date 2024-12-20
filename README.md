@@ -70,8 +70,8 @@ sample inputs and Outputs
 
 To implement this, we combined the Random Classifier and LSTM model. This model responds to spelling and grammar mistakes simultaneously!
 
-![Final Inputs and Outputs](https://github.com/user-attachments/assets/fa5cc64d-50ba-415c-bdb1-5e961e88310d)
-![image](https://github.com/user-attachments/assets/b7c12f0a-8fcc-4dbf-9b96-366ba76edb25)
+![Screenshot 2024-12-21 031315](https://github.com/user-attachments/assets/b57cad44-6d78-496a-ab11-364745b22ed5)
+
 
 
 
