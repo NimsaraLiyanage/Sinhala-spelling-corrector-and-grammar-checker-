@@ -36,7 +36,8 @@ We Used 3 approaches to make a Sinhala grammar checker.
 2. ML - Random Forest Classifier 
 3. DL - RNN
 
-1. Rule-Based Approach
+
+## 1. Rule-Based Approach
 
 How It Works:
 
@@ -46,7 +47,7 @@ sample inputs and Outputs
 ![iNPUTS AND oUTPUTS](https://github.com/user-attachments/assets/2120eec6-e4c5-4426-8e12-2e66adf104fd)
 
 
-2. Machine Learning (Random Forest Classifier)
+## 2. Machine Learning (Random Forest Classifier)
 
 How It Works:
 
@@ -56,7 +57,7 @@ sample inputs and Outputs
 ![Final Inputs and Outputs](https://github.com/user-attachments/assets/65712a7e-d5f2-4f57-91a0-9654712e7a1c)
 
 
-3. Deep Learning (Recurrent Neural Network - RNN)
+## 3. Deep Learning (Recurrent Neural Network - RNN)
 
 How It Works:
 
